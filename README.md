@@ -1,4 +1,4 @@
-# Yet-another-youtube-video-downloader
+# Yet another youtube video downloader
 
 ### A youtube video downloader made using tkinter designer.
 
